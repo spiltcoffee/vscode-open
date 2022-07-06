@@ -2,7 +2,7 @@
   "name": "vscode-open",
   "displayName": "Open",
   "description": "Opens the current file with the default for the OS",
-  "version": "0.2.0",
+  "version": "0.2.0-pr23",
   "icon": "open.png",
   "publisher": "sandcastle",
   "engines": {
